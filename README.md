@@ -1,3 +1,10 @@
+This clone of KITO's Impressive Title source is meant to be its successor. I reccommend using a diff plugin for VS or Notepad++, or a third-party application if you're looking to upgrade your existing project.
+
+You may or may not credit me, but please do not take the credit for yourself. I'm hoping by making this public that it'll be common-enough-knowledge that it won't happen like that.
+
+Thank you for viewing this code, and I hope it falls into good hands. :)
+
+
 KITO's Impressive Title source
 ====================
 This is a copy of http://www.kitopen.com/t532-download-and-instructions-compile-your-own-it
